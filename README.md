@@ -1,4 +1,4 @@
-# The_Missing_Case
+# The Missing Case
 
 **A First-Person Psychological Horror Experience | Made with Unity**
 
@@ -81,7 +81,7 @@ The project also helped me develop my skills in Unity, C# scripting, game design
 
 ## Credits
 
-**Game Development, Story, Gameplay Integration & Voice Acting: Andrei Neata
+**Game Development, Story, Gameplay Integration & Voice Acting:** Project Creator  
 **Game Engine:** Unity  
 **Character Models & Selected Animations:** Mixamo  
 **Additional Assets:** Third-party resources used during development
