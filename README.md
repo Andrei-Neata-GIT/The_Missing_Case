@@ -83,7 +83,8 @@ The project also helped me develop my skills in Unity, C# scripting, game design
 
 **Game Development, Story, Gameplay Integration & Voice Acting:** Andrei Neata  
 **Game Engine:** Unity  
-**Character Models & Selected Animations:** Mixamo  
+**Character Models: Mixamo
+**Character Animations: Mixamo & Custom Animations
 **Additional Assets:** Third-party resources used during development
 
 ---
