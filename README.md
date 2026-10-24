@@ -81,7 +81,7 @@ The project also helped me develop my skills in Unity, C# scripting, game design
 
 ## Credits
 
-**Game Development, Story, Gameplay Integration & Voice Acting:** Project Creator  
+**Game Development, Story, Gameplay Integration & Voice Acting:** Andrei Neata  
 **Game Engine:** Unity  
 **Character Models & Selected Animations:** Mixamo  
 **Additional Assets:** Third-party resources used during development
