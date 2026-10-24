@@ -1,7 +1,5 @@
 # The_Missing_Case
 
-# The Missing Case
-
 **A First-Person Psychological Horror Experience | Made with Unity**
 
 ## About the Game
