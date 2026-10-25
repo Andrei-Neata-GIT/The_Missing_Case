@@ -87,6 +87,15 @@ The project also helped me develop my skills in Unity, C# scripting, game design
 **Character Animations:** Mixamo & Custom Animations  
 **Additional Assets:** Third-party resources used during development
 
----
+## How The Game Looks Like
+
+<img width="559" height="314" alt="Picture3" src="https://github.com/user-attachments/assets/e28746c0-2134-4d84-8830-73f025c73d9e" />
+
+<img width="552" height="310" alt="Picture1" src="https://github.com/user-attachments/assets/dd2ba115-48a3-4287-b2c9-d09808a219e6" />
+
+<img width="559" height="314" alt="Picture4" src="https://github.com/user-attachments/assets/f273f633-1052-47d8-a0a7-167c95f76f9f" />
+
+<img width="559" height="314" alt="Picture2" src="https://github.com/user-attachments/assets/a84d2c55-b98b-4c52-9dd3-dc7fc460f524" />
+
 
 *The Missing Case — Some secrets are better left buried.*
